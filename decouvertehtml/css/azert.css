@@ -1,0 +1,14 @@
+.azert
+{color: rgb(27, 10, 10);text-transform: uppercase;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.tailleimage 
+{
+width: 375px;right: 10cm;
+background-image: -webkit-image-set();
+display: block;
+margin: auto;
+}
+a {
+    text-decoration: none;
+  }
